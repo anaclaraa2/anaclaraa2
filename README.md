@@ -1,5 +1,10 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💟
 
+** Sou 
+
+Meu email
+
+00001104157901SP@aluno.educacao.sp.gov.br
 <!--
 **anaclaraa2/anaclaraa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
